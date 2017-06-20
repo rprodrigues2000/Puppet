@@ -1,0 +1,15 @@
+{
+  "name": "servers-ssh",
+  "version": "0.1.0",
+  "author": "Servers <rprodrigues2000@gmail.com>",
+  "summary": "Modulo ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/rprodrigues2000/Puppet",
+  "project_page": "https://github.com/rprodrigues2000/Puppet",
+  "issues_url": "https://github.com/rprodrigues2000/Puppet/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
