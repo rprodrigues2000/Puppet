@@ -1,7 +1,7 @@
 {
   "name": "servers-ssh",
   "version": "0.1.0",
-  "author": "Servers <rprodrigues2000@gmail.com>",
+  "author": "Ricardo Pereira <rprodrigues2000@gmail.com>",
   "summary": "Modulo ssh",
   "license": "Apache-2.0",
   "source": "https://github.com/rprodrigues2000/Puppet",
